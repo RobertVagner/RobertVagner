@@ -1,5 +1,5 @@
 ## 👋 Olá, eu sou Robert Vagner!
-- 🌱 Atualmente estou aprendendo JavaScript, Linguagem C
+- 🌱 Atualmente estou aprendendo JavaScript, Linguagem C/C++, C#, Java
 - 💻 Estudande de Ciência da Computação
 <div>
   <a href="https://github.com/RobertVagner">
