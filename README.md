@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou Robert Vagner!
-- 🌱 Atualmente estou aprendendo JavaScript, Linguagem C/C++, C#, Java, Dart
-- 💻 Estudande de Ciência da Computação
+- 🌱 Atualmente tenho uma Software House, e trabalho com desenvolvimentos de sistemas e aplicativos.
+- 💻 Bacharel em Ciência da Computação
 <div>
   <a href="https://github.com/RobertVagner">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertVagner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
