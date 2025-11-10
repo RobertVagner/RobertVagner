@@ -1,5 +1,5 @@
 ## 👋 Olá, eu sou Robert Vagner!
-- 🌱 Atualmente tenho uma Software House, e trabalho com desenvolvimentos de sistemas e aplicativos.
+- 🌱 Atualmente tenho uma Software House, e trabalho com desenvolvimentos de sistemas e aplicativos
 - 💻 Bacharel em Ciência da Computação
 <div>
   <a href="https://github.com/RobertVagner">
